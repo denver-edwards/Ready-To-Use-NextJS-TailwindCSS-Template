@@ -2,9 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["lh3.googleusercontent.com"],
-    quality: "100",
-  },
+    domains: ["lh3.googleusercontent.com"]
+  }
 };
 
 module.exports = nextConfig;
